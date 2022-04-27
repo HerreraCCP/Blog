@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/herrera/.dotnet/store/|arch|/|tfm|",
+      "/Users/herrera/.nuget/packages"
+    ]
+  }
+}
